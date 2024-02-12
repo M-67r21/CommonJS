@@ -1,0 +1,17 @@
+{
+  "name": "commonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node Index.js",
+    "dev": "nodemon Index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
